@@ -85,5 +85,4 @@ const getPicture = () => Array.from(
   (_, puctureIndex) => createPicture(puctureIndex + 1),
 );
 
-
 getPicture();
